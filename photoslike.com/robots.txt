@@ -1,0 +1,3 @@
+User-agent: *
+Host: photoslike.com
+Sitemap: http://photoslike.com/sitemap.xml
